@@ -13,3 +13,5 @@ To run this notebook, please upload 'data_professors.csv'
 Python files:
 
 ** score.py - evaluates the quality of the answer. 
+
+* Note: Data is too large to upload
